@@ -1,7 +1,7 @@
 # PROJECTS
 Some other projects of mine:
 
-### Nassi Schneiderman App made in c++ with a colleague
+### Nassi Shneiderman App made in c++ with a colleague
 It has a code editor, wich it also runs and shows the diagram for it.
 ![Nassi](public/nassi1.png)
 ![Nassi](public/nassi2.png)
