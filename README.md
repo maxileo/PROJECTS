@@ -1,5 +1,5 @@
 # PROJECTS
-Some other projects of mine:
+Some other projects of mine :
 
 ### Nassi Shneiderman App made in c++ with a colleague
 It has a code editor, wich it also runs and shows the diagram for it.
